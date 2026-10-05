@@ -10,3 +10,4 @@ def Even_odd_diffrence(nums):
 
 nums=list(map(int,input("Enter the numbers").split()))
 print("The diffrence between the sum of even and odd numbers is:",Even_odd_diffrence(nums))
+
